@@ -1,0 +1,39 @@
+body{
+  background-color: aquamarine;
+}
+h1 {
+font-style: oblique;
+text-align: center;
+background-color: black;
+color: white;
+}
+h2 {
+  font-style:italic;
+  text-align: center;
+  background-color: grey;
+  color: white;
+}
+#h31 {
+  font-style:normal ;
+  text-align: center;
+  background-color:darkgrey;
+  color: black;
+}
+h4 {
+  font-style: italic;
+  text-align: center;
+  background-color: lightgrey;
+  color: black;
+}
+#cursive{
+font-style: oblique;
+}
+#bold{
+font-weight: bold;
+}
+#underline{
+    text-decoration: underline;
+}
+li{
+  font-size: 25;
+}
